@@ -1,24 +1,8 @@
-# README
+# Pica-Voca (Pick up Vocabulary) - 내 손안의 단어장
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> **내가 원하는 단어를 픽해볼까?**
 
-Things you may want to cover:
+![pica-voca-img](https://github.com/xi-jjun/pica-voca/blob/main/docs/picavoca_banner_img.png?raw=true)
 
-* Ruby version
+흔하디 흔한 단어장 어플입니다. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
