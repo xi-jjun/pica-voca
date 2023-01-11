@@ -29,3 +29,4 @@
 .idea
 .ruby-version
 pica-voca.iml
+.env
