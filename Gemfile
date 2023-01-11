@@ -6,6 +6,11 @@ ruby '2.7.2'
 # load env var from .env to rails
 gem 'dotenv-rails', groups: [:development, :test]
 
+# user auth
+gem 'devise'
+gem 'rolify'
+gem 'cancancan'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.5'
 # Use mysql as the database for Active Record
